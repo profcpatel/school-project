@@ -1,2 +1,3 @@
 Biology Chapter 1: Cells
 Cell parts: nucleus, membrane, cytoplasm
+Cell functions: growth, reproduction, metabolism
